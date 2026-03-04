@@ -54,8 +54,8 @@ export default function OfferPopup({ onClose }: Props) {
       >
         {/* Offer image as full background */}
         <img
-          src="/assets/uploads/WhatsApp-Image-2026-03-02-at-10.01.34-PM-2.jpeg"
-          alt="Special Offer - Free Ice Cream Worth ₹40 for every ₹100 billed"
+          src="/assets/uploads/TASTY-TOWER-OFFER-LOGO-1.jpeg"
+          alt="Special Offer - Free Ice Cream Worth Rs 30 for every ₹125 billed"
           className="w-full h-auto block"
           style={{ display: "block" }}
         />

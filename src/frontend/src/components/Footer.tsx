@@ -170,7 +170,7 @@ export default function Footer() {
                   style={{ color: "oklch(0.84 0.16 86)" }}
                 />
                 <a
-                  href="tel:7093394910"
+                  href="tel:9861188235"
                   className="text-sm transition-colors"
                   style={{ color: "oklch(0.65 0.03 258)" }}
                   onMouseEnter={(e) =>
@@ -180,7 +180,7 @@ export default function Footer() {
                     setStyle(e.currentTarget, { color: "oklch(0.65 0.03 258)" })
                   }
                 >
-                  7093394910
+                  9861188235
                 </a>
               </div>
             </div>

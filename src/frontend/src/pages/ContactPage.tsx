@@ -107,7 +107,7 @@ export default function ContactPage() {
               We're happy to answer any questions about our menu!
             </p>
             <a
-              href="tel:7093394910"
+              href="tel:9861188235"
               data-ocid="contact.phone.link"
               className="inline-flex items-center gap-2 px-5 py-3 rounded-xl font-bold text-base transition-all duration-200 hover:scale-105"
               style={{
@@ -118,7 +118,7 @@ export default function ContactPage() {
               }}
             >
               <Phone size={18} strokeWidth={2.5} />
-              70933 94910
+              98611 88235
             </a>
           </ContactCard>
 
