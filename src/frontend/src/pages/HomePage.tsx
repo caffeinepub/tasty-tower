@@ -471,22 +471,23 @@ export default function HomePage() {
             className="font-display font-bold text-3xl sm:text-4xl mb-4"
             style={{ color: "oklch(0.98 0.005 250)" }}
           >
-            For Every ₹100 Billed
+            For Every ₹125 Billed
           </h2>
           <p
             className="text-lg mb-8"
             style={{ color: "oklch(0.75 0.025 258)" }}
           >
-            Get an Ice Cream Worth{" "}
+            Get a Delicious Ice Cream Worth{" "}
             <strong style={{ color: "oklch(0.88 0.17 86)" }}>
-              ₹40 Absolutely FREE!
+              Rs 30 Absolutely FREE!
             </strong>
             <br />
             <span
               className="text-sm mt-1 block"
               style={{ color: "oklch(0.60 0.025 258)" }}
             >
-              Vanilla · Strawberry · Butterscotch
+              Choose Your Favorite Amul Flavor: Vanilla · Strawberry ·
+              Butterscotch
             </span>
           </p>
           <Link
